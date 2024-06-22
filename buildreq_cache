@@ -1,0 +1,7 @@
+6.0.0a
+dbus-dev
+docbook-utils
+libseccomp-dev
+openssl-dev
+pkgconfig(dbus-1)
+pkgconfig(libseccomp)
